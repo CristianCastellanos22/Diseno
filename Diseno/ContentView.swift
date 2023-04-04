@@ -45,7 +45,7 @@ struct compactDesign: View {
                     .font(.largeTitle)
                     .foregroundColor(.white)
                     .bold()
-                Text("Calle #123")
+                Text("Calle 123")
                     .foregroundColor(.white)
                     .font(.title).italic()
                 HStack {
